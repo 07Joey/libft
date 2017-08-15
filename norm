@@ -1,3 +1,3 @@
-norminette ft_a* && norminette ft_b* && norminette ft_i* && norminette ft_l* && \
-norminette ft_m* && norminette ft_p* && norminette ft_s* && norminette ft_t* \
-&& norminette *.h
+norminette ft_a*.c && norminette ft_b*.c && norminette ft_i*.c &&\
+norminette ft_l*.c && norminette ft_m*.c && norminette ft_p*.c &&\
+norminette ft_s*.c && norminette ft_t*.c && norminette *.h
